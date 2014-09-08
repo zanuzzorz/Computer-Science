@@ -1,0 +1,10 @@
+->﻿ Desenvolvido por:
+    Ricardo Zanuzzo,
+    Acadêmico de Ciência de Computação,na Universidade Federal da Fronteira Sul.
+
+
+-> Descrição do Programa: 
+    Utilizando listas dinâmicas duplamente encadeadas que armazenam como campo de 
+    dado um valor inteiro positivo,o programa possibilita a ordenação da lista, através 
+    dos métodos InsertionSort e QuickSort.
+

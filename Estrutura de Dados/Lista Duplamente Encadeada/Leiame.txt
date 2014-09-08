@@ -1,0 +1,13 @@
+->﻿ Desenvolvido por:
+    Ricardo Zanuzzo,
+    Academico de Ciência de Computação,na Universidade Federal da Fronteira Sul.
+
+
+-> Descrição do Programa: 
+    O programa pode armazenar cadastros de usuários em duas listas dinâmicas duplamente encadeadas.Ele permite a criação
+    de duas listas,fazendo sempre a inserção de um novo usuário (cujo ID não pode se repetir na mesma lista) em ordem 
+    (crescente em valor de ID) na respectiva lista.Além da opção de inserção em qualquer uma das duas listas dinâmicas,
+    o aplicativo deve oferecer aopção de remoção de um elemento qualquer presente na lista. O aplicativo deve fornecer a 
+    opção de intercalação (merge) das duas listas,produzindo uma terceira lista contendo o resultado da intercalação 
+    das duas primeiras listas (para cadastros repetidos, incluir apenas uma entrada na lista de intercalação).A qualquer momento,
+    o programa oferece as opções de limpeza (CLEAR) das listas e listagem (em tela) do conteúdo de qualquer uma das três listas. 
