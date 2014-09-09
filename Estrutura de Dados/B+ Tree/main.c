@@ -329,7 +329,7 @@ int cut( int length ) {
  
 // INSERÇÃO
  
-// Cria um nodovo Registro para guardar o valor a que se refere a Chave.
+// Cria um novo Registro para guardar o valor a que se refere a Chave.
 registro * make_registro(int valor) {
     registro * new_registro = (registro *)malloc(sizeof(registro));
     if (new_registro == NULL) {
