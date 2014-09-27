@@ -8,7 +8,7 @@ Ciência da Computação - Estruturas de Dados II
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include "funcoes.c"
+#include "funcoes.h"
 
 int main(){	
 

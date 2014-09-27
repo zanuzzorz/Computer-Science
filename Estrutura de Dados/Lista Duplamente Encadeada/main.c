@@ -13,7 +13,7 @@ Main com as Chamadas das Funções
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include "funcoes.c"
+#include "funcoes.h"
 
 
 int main(){
