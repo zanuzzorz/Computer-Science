@@ -1,0 +1,17 @@
+Universidade Federal da Fronteira Sul - UFFS
+Ciência da Computação - Computação Gráfica
+Alunos: Natan J. Mai e Ricardo Zanuzzo
+
+Sistema Operacional : Linux
+
+Informações:
+	-> Bandeira do País de Botswana, localizado no continente Africano.
+	-> Cores da Bandeira : Azul celeste, Branco, Preto.
+
+Arquivos: 
+	-> bandeira.cpp : Contém o Código Fonte do trabalho.
+	-> Makefile : Contém comandos de compilação e execução do programa.
+
+Da Compilação:
+	-> make bandeira : Compila e executa o programa.
+	-> make clean : Remove o executável para que possa rodar o programa novamente.
