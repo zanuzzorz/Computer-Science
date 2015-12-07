@@ -26,11 +26,15 @@ processos com políticas de decisão distintas:
 ◦ Variante 3: Multilevel Feedback Queue Scheduling
 
 Nessa abordagem, há três filas de processos:
+
 • A primeira fila contém os processos de mais alta prioridade;
+
 • A segunda fila contém os processos de prioridade intermediária;
+
 • A terceira fila contém os processos de mais baixa prioridade.
 
 O escalonador atende as seguintes regras/propriedades:
+
 1. Quando um processo é criado, ele é inserido na primeira fila;
 2. A preferência, na execução, sempre é dos processos da primeira fila;
 3. Caso não existam processos de alta prioridade (i.e., primeira fila), a
