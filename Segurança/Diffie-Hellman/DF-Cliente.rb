@@ -1,1 +1,0 @@
-# Implementação do Método de troca de chaves Diffie-Hellman
